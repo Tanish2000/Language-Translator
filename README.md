@@ -1,4 +1,4 @@
-A Python script to translate sentences from one language to another. There are certain language code in the language.txt file.<br>
+A Python script to translate sentences from one language to another. There are certain language code in the language.txt file.
 If you want to change the input or output lanuage just change them in code with help of the language codes given in the language.txt file.
 
 <h3>Pakages Used : </h3>
