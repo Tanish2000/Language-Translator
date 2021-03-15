@@ -3,7 +3,6 @@ import gtts
 from googletrans import Translator
 import playsound
 import speech_recognition as sr
-import time
 import os
 import pyttsx3
 
